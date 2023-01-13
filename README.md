@@ -7,3 +7,6 @@ This Project is a Peer to Peer Chat Developed in Python and is encrypted using t
  2. Run Client.py
  3. Enter the Host name as required
  4. Start Chatting between Server and Client
+
+For any further queries or suggestions contact me at:
+suhrid2707@gmail.com
